@@ -1,0 +1,30 @@
+:root {
+  --sky: #289ba8;
+  --back: #0dcaf0;  
+}
+body {
+  
+}
+nav {
+  background-color: var(--sky);
+  /* max-height: 60px; */
+}
+.fadiv{
+  background-color: var(--back);
+}
+#carousel {
+  /* padding-top: 70px; */
+}
+.card-title{
+  
+}
+.card-text {
+
+}
+.card-body {
+  background-color: var(--back);
+}
+.card-img-top {
+  height: 154px;
+  width: 232px;
+}
